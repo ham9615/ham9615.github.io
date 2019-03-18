@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ![Image](https://www.computerhope.com/jargon/b/binary-0s-1s.jpg)
 
 You can use the [editor on GitHub](https://github.com/ham9615/ham9615.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
